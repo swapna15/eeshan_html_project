@@ -1,0 +1,34 @@
+.backgroundstyle {
+    background-image: url("file:///Users/deepak/Documents/Web/html/images/lemonslicesmall.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 40px;
+}
+.bc {
+    background-color: rgb(255, 136, 0);
+}
+.bs {
+    background: url("file:///Users/deepak/Documents/Web/html/images/fruit-1234657_640.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 40px;
+}
+.lemonadedescrp {
+    font-size:30px; 
+    font-family: cursive;
+    height:100px;
+    margin-top: 10px;
+}
+.subhead {
+    font-size:25px;
+    font-family: cursive;
+}
+.container {
+    display: grid;;
+}
+.lemonade {
+    width: 50%;
+}
+.orange_juice {
+    width: 50%;
+}
